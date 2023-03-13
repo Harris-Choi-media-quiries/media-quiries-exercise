@@ -25,7 +25,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+<<<<<<< HEAD
     "nodejs_package_manager_path": "npm",
+=======
+>>>>>>> 8800fe3 (gitignore)
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,7 +40,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678722709704</updated>
+<<<<<<< HEAD
       <workItem from="1678722711623" duration="207000" />
+=======
+      <workItem from="1678722975379" duration="371000" />
+>>>>>>> 8800fe3 (gitignore)
     </task>
     <servers />
   </component>
