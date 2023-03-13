@@ -15,7 +15,7 @@ li{
 }
 @media screen and (min-width: 365px) {
     .alert-info{
-        background-color: lightblue;
+        background-color: lightblue; 
         display: flex;
         align-items: center;
         justify-content: center;
